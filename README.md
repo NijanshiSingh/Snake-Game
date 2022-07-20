@@ -6,7 +6,12 @@ If the snake hits itself or the boundaries the game is over.
 ## Controls
 Use the arrow keys to move the Snake.
 
+## Run this on your machine:
+Simplay download the fifle as zip and extract it. After Extracting open the "SnakeGamee.exe" file to run the game.
+
+
 ## Screenshots
+![capture](https://raw.githubusercontent.com/NijanshiSingh/Snake-Game/main/screenshot/Capture.JPG)
 
 
 ## Language used
