@@ -6,8 +6,8 @@ If the snake hits itself or the boundaries the game is over.
 ## Controls
 Use the arrow keys to move the Snake.
 
-## Run this on your machine:
-Simplay download the fifle as zip and extract it. After Extracting open the "SnakeGamee.exe" file to run the game.
+## Run the game on your machine:
+Simplay download the file as zip and extract it. After Extracting, open the "SnakeGamee.exe" file to run the game.
 
 
 ## Screenshots
